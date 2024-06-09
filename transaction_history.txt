@@ -1,0 +1,24 @@
+--------------------------------------------------
+Top Up Successful!
+Receipt:
+Name: tara, Phone Number: 89
+TapCash Number: 22
+Top Up Amount: IDR 22333.0
+Remaining Balance: IDR 77667.0
+--------------------------------------------------
+--------------------------------------------------
+Top Up Successful!
+Receipt:
+Name: Cira, Phone Number: 951
+TapCash Number: 0987654321
+Top Up Amount: IDR 10000.0
+Remaining Balance: IDR 90000.0
+--------------------------------------------------
+--------------------------------------------------
+Transfer Successful!
+Receipt:
+Name: Cira, Phone Number: 951
+Destination Number: 1234567890
+Transfer Amount: IDR 9000.0
+Remaining Balance: IDR 81000.0
+--------------------------------------------------
